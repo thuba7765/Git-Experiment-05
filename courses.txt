@@ -1,6 +1,5 @@
 DDC0
 DSA
 OOPS
-M3
 OS
 DSA LAB
